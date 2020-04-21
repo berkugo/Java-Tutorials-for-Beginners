@@ -12,7 +12,7 @@ First compile the code then run,
 
 `java Main`
 
-> Videos of first week 
+> Videos of first week (Turkish)
 > *  Part 1
 > https://youtu.be/V3AWLQtkGb8 
 > 
